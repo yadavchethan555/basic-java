@@ -1,5 +1,0 @@
-class Movies extends OttPlatform{
-
-
-
-}

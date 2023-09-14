@@ -1,5 +1,0 @@
-class Water extends Liquid{
-
-
-
-}

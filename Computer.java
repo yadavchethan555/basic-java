@@ -1,5 +1,0 @@
-class Computer extends ElectronicDevice{
-
-
-
-}

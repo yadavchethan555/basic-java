@@ -1,5 +1,0 @@
-class EarRing extends Jewellery{
-
-
-
-}
