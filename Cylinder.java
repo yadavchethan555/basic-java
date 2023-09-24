@@ -1,0 +1,5 @@
+class Cylinder{
+    
+	Gas gas;
+
+}
